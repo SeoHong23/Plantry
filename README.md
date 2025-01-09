@@ -9,12 +9,7 @@
 ## 💷 Project
 본 프로젝트는 롯데 이노베이트의 사내 커뮤니티 게시판 개발을 목적으로 시작하여 회사 내부 구성원이 아이디어를 공유하고 협업할 수 있도록 확장하여 설계된 그룹웨어 기반 협업 플랫폼입니다. 사용자 권한에 따라 게시판, 메인 메뉴 등을 맞춤 제공하며, 사용자로 하여금 보다 효율적으로 업무를 관리할 수 있도록 설계되었습니다.
 
-<td width="50%">
-<h3 align="center" color="white">LotteOn</h2>
-<div align="center">  
-<a href='http://ec2-13-124-94-213.ap-northeast-2.compute.amazonaws.com:8080/'>
-<img src="https://github.com/user-attachments/assets/dc1f6d5c-0017-413e-b105-d86c77781034" alt="LotteOn Website" max-height="250px" width="100%" />
-</a>
+
 ## 🙍‍♀️ Developer
 - **회원 / 프로젝트 관리**<br>
     박연화  (ppyyhh3285@gmail.com)
