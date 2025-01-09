@@ -9,6 +9,7 @@
 ## 💷 Project
 본 프로젝트는 롯데 이노베이트의 사내 커뮤니티 게시판 개발을 목적으로 시작하여 회사 내부 구성원이 아이디어를 공유하고 협업할 수 있도록 확장하여 설계된 그룹웨어 기반 협업 플랫폼입니다. 사용자 권한에 따라 게시판, 메인 메뉴 등을 맞춤 제공하며, 사용자로 하여금 보다 효율적으로 업무를 관리할 수 있도록 설계되었습니다.
 
+[![YouTube](https://img.youtube.com/vi/BVHR2pa8soE/0.jpg)](https://www.youtube.com/watch?v=BVHR2pa8soE)
 
 <br>
 
